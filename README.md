@@ -17,7 +17,7 @@
 |L8|27/12/2021|Diode Applications , Doide Rectifier Circuit|[:notebook_with_decorative_cover:](https://www.protectedtext.com/eee2103)|Offline|Connected to A5|
 |L9|28/12/2021|Rectifier Cicuits , Half wave rectifier , Full wave Center tapper rectifier , Full wave bridge rectifier|[:notebook_with_decorative_cover:](https://www.protectedtext.com/eee2103)|Offline|Connected to A6|
 |L10|02/01/2022|The Average Value , The RMS value & Efficiency of Half wave & Full wave rectifier|[:notebook_with_decorative_cover:](https://www.protectedtext.com/eee2103)|Offline|Connected to A7|
-|L11|03/01/2022||[:notebook_with_decorative_cover:](https://www.protectedtext.com/eee2103)|Offline||
+|L11|03/01/2022|Rectifier with a Capacitor , Example-4.8(Sedra)|[:notebook_with_decorative_cover:](https://www.protectedtext.com/eee2103)|Offline|Connected to A8|
 
 
 
@@ -35,6 +35,6 @@
 |A5|05/07/2021|Example 4.2(Sedra),Diode Applications, Doide Rectifier Circuit|[:blue_book:](https://www.protectedtext.com/eee2103)|Connected to L7 & L8|
 |A6|06/07/2021|Rectifier Cicuits , Half wave rectifier , Full wave Center tapper rectifier , Full wave bridge rectifier|[:blue_book:](https://www.protectedtext.com/eee2103)|Connected to L9|
 |A7|07/07/2021|The Average Value , The RMS value & Efficiency of Half wave & Full wave rectifier |[:blue_book:](https://www.protectedtext.com/eee2103)|Connected to L10|
-|A8|12/07/2021||[:blue_book:](https://www.protectedtext.com/eee2103)||
+|A8|12/07/2021|Rectifier with a Capacitor , Example-4.8(Sedra)|[:blue_book:](https://www.protectedtext.com/eee2103)|Connected to L11|
 
 
